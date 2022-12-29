@@ -627,7 +627,7 @@ def Repeat_word():
 def Open_Location():
     try:
         Speak("Ok Sir , Wait A Second!")
-        webbrowser.open('https://www.google.com/maps/@22.5759109,88.372492,15z')
+        webbrowser.open('https://www.google.com/maps/@19.1334302,72.9110792,17z')
     except:
         Speak("Sorry sir, an error occured.")
         Speak("Do you want to try that again?")

@@ -41,4 +41,5 @@ def RingerNow(time):
             Speak("Alarm stopped sir.")
             exit()
 
+            
 RingerNow(Time)

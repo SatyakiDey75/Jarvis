@@ -19,7 +19,7 @@ built using python :)
  
 1. Download the repository ```https://github.com/SatyakiDey75/Jarvis.git```
 2. Make sure all the required modules are installed.
-3. Go to the downloaded directory ``E:\Jarvis``
+3. Copy all the files to directory ``E:\Jarvis``
 4. Run the file ``Jarvis.py`` and enjoy the software :)
 
 ##
